@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Naros_AnaMaria_Lab10.Models;
 
 namespace Naros_AnaMaria_Lab10
 {
